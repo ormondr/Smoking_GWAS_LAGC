@@ -14,15 +14,15 @@ This repository contains the analysis workflow for the **GWAS meta-analysis of s
 
 The scripts are organized into the following steps:
 
-### `00QC/` – Quality Control
+### Quality Control (`00QC`)
 - `00arrayqc_preimputation/`: Pre-imputation QC  
 - `01arrayqc_postimputation/`: Post-imputation QC
 
-### `01dataprep/` – Data Preparation
+### Data Preparation (`01dataprep/`)
 - `00dataprep_qc/`: QC preparation for analysis  
 - `01dataprep_gwas/`: Data formatting for GWAS
 
-### `02GWAS/` – GWAS Execution  
+### GWAS Execution (`02GWAS/`)
 Contains scripts for running GWAS using the following software:
 - `00Regenie/`
 - `01GMMAT/`
