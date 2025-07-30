@@ -2,7 +2,6 @@
 
 This repository contains the analysis workflow for the **GWAS meta-analysis of smoking traits** as part of the **Latin American Genomic Consortium (LAGC)**.
 
-**Project name:** *(to be defined)*  
 **Authors:** Rafaella Ormond and Jaime Martinez-Magaña
 
 **Analysis plan and phenotype details:**  
