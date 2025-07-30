@@ -26,5 +26,5 @@ The scripts are organized into the following steps:
 Contains scripts for running GWAS using the following software:
 - `00Regenie/`
 - `01GMMAT/`
-- `Saige/`
+- `02Saige/`
 
