@@ -9,10 +9,15 @@ This repository contains the analysis workflow for the **GWAS meta-analysis of s
 📄 [View the full document here](https://docs.google.com/document/d/1RzD5kBlj9rfiomda1G3NfxYDXLdmIUO7VX0cSNj70Kk/edit?usp=sharing)
 
 ---
+## Available in different languages:
+You can found the scripts in english, spanish and portuguese, selecting the wanted folder:
+- `English`
+- `Espanol`
+- `Portugues`
 
 ## Repository Structure
 
-The scripts are organized into the following steps:
+The scripts are organized into the following steps (after enter in the language path wanted):
 
 ### Quality Control (`00QC`)
 - `00arrayqc_preimputation/`: Pre-imputation QC  
