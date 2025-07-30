@@ -10,10 +10,11 @@ This repository contains the analysis workflow for the **GWAS meta-analysis of s
 
 ---
 ## Available in different languages:
-You can found the scripts in english, spanish and portuguese, selecting the wanted folder:
-- `English`
-- `Espanol`
-- `Portugues`
+The scripts are available in **English**, **Spanish**, and **Portuguese**.  
+Please select the desired language folder:
+- `English/`
+- `Espanol/`
+- `Portugues/`
 
 ## Repository Structure
 
