@@ -9,7 +9,7 @@ This repository contains the analysis workflow for the **GWAS meta-analysis of s
 📄 [View the full document here](https://docs.google.com/document/d/1RzD5kBlj9rfiomda1G3NfxYDXLdmIUO7VX0cSNj70Kk/edit?usp=sharing)
 
 ---
-## Available in different languages:
+## 🌎 Available in different languages:
 The scripts are available in **English**, **Spanish**, and **Portuguese**.  
 Please select the desired language folder:
 - `English/`
