@@ -17,7 +17,7 @@ Please select the desired language folder:
 
 ## Repository Structure
 
-The scripts are organized into the following steps (after enter in the language path wanted):
+The scripts are organized into the following steps (inside the selected language folder):
 
 ### Quality Control (`00QC`)
 - `00arrayqc_preimputation/`: Pre-imputation QC  
