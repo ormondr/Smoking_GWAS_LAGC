@@ -1,6 +1,8 @@
 ### Smoking GWAS in LAGC<br>
 ### GWAS Consumo de Tabaco en LAGC<br>
 ### GWAS Consumo de Tabaco no LAGC
+
+**Authors:** [Rafaella Ormond](https://github.com/ormondr) and [Jose Jaime Martinez-Magaña](https://github.com/martinezjaime)
 ---
 ***English:*** This repository contains the analysis workflow for the **GWAS meta-analysis of smoking traits** as part of the **Latin American Genomic Consortium (LAGC)[LINK]()**
 
@@ -8,7 +10,6 @@
 
 ***Português:*** Este repositório contem o fluxo de trabaho para a **Meta-análise de GWAS de consumo de Tabaco** como parte do **Latin American Genomic Consoritium (LAGC) [LINK]()**
 
-**Authors:** [Rafaella Ormond](https://github.com/ormondr) and [Jose Jaime Martinez-Magaña](https://github.com/martinezjaime)
 
 **Analysis plan and phenotype details:**  
 📄 [View the full document here](https://docs.google.com/document/d/1RzD5kBlj9rfiomda1G3NfxYDXLdmIUO7VX0cSNj70Kk/edit?usp=sharing)
@@ -16,6 +17,7 @@
 ---
 ## 🌎 Available in different languages:
 The scripts are available in **English**, **Spanish**, and **Portuguese**.  
+Each language path have exactly the same repository structure (red)
 Please select the desired language folder:
 - `English/`
 - `Espanol/`
@@ -24,8 +26,9 @@ Please select the desired language folder:
 ## Repository Structure
 
 The scripts are organized into the following steps (inside the selected language folder):
+The explanation of each step will be inside of each script (Jupyter notebook format) (red)
 
-### Quality Control (`00QC`)
+### Quality Control (`00QC`/)
 - `00arrayqc_preimputation/`: Pre-imputation QC  
 - `01arrayqc_postimputation/`: Post-imputation QC
 
