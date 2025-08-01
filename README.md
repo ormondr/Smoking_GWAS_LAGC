@@ -23,11 +23,13 @@ The scripts are organized into the following steps (inside the selected language
 - `00arrayqc_preimputation/`: Pre-imputation QC  
 - `01arrayqc_postimputation/`: Post-imputation QC
 
-### Data Preparation (`01dataprep/`)
-- `00dataprep_qc/`: QC preparation for analysis  
-- `01dataprep_gwas/`: Data formatting for GWAS
+### Data Preparation (`01PC/`)
+- `00PCAir/`: Principal Components Calculation for the analysis
+  
+### Data Preparation (`02dataprep/`)
+- `00dataprep_gwas/`: Data formatting for GWAS
 
-### GWAS Execution (`02GWAS/`)
+### GWAS Execution (`03GWAS/`)
 Contains scripts for running GWAS using the following software:
 - `00Regenie/`
 - `01GMMAT/`
