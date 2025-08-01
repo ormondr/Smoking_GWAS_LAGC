@@ -1,8 +1,8 @@
 # Smoking GWAS LAGC /  GWAS Consumo de Tabaco en LAGC/ GWAS Consumo de Tabaco no LAGC
 
-***English:*** This repository contains the analysis workflow for the **GWAS meta-analysis of smoking traits** as part of the ***Latin American Genomic Consortium (LAGC)[LINK]()**
+***English:*** This repository contains the analysis workflow for the **GWAS meta-analysis of smoking traits** as part of the **Latin American Genomic Consortium (LAGC)[LINK]()**
 
-***Español:*** Este repositorio contiene el flujo de trabajo para el **Meta-análisis de GWAS del consumo de Tabaco** como parte del ***Latin American Genomic Consoritium (LAGC) [LINK]()**
+***Español:*** Este repositorio contiene el flujo de trabajo para el **Meta-análisis de GWAS del consumo de Tabaco** como parte del **Latin American Genomic Consoritium (LAGC) [LINK]()**
 
 ***Português:*** Este repositório contem o fluxo de trabaho para a **Meta-análise de GWAS de consumo de Tabaco** como parte do **Latin American Genomic Consoritium (LAGC) [LINK]()**
 
