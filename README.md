@@ -3,6 +3,7 @@
 ### GWAS Consumo de Tabaco no LAGC<br>
 
 **Authors:** [Rafaella Ormond](https://github.com/ormondr) and [Jose Jaime Martinez-Magaña](https://github.com/martinezjaime)
+
 ---
 ***English:*** This repository contains the analysis workflow for the **GWAS meta-analysis of smoking traits** as part of the **Latin American Genomic Consortium (LAGC)[LINK]()**
 
