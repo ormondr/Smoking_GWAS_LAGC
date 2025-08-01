@@ -1,6 +1,6 @@
-Smoking GWAS in LAGC<br>
+### Smoking GWAS in LAGC<br>
 ### GWAS Consumo de Tabaco en LAGC<br>
-### GWAS Consumo de Tabaco no LAGC
+### GWAS Consumo de Tabaco no LAGC<br>
 
 **Authors:** [Rafaella Ormond](https://github.com/ormondr) and [Jose Jaime Martinez-Magaña](https://github.com/martinezjaime)
 ---
