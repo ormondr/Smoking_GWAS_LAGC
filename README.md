@@ -1,4 +1,4 @@
-### Smoking GWAS in LAGC<br>
+Smoking GWAS in LAGC<br>
 ### GWAS Consumo de Tabaco en LAGC<br>
 ### GWAS Consumo de Tabaco no LAGC
 
