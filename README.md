@@ -29,7 +29,7 @@ Please select the desired language folder:
 The scripts are organized into the following steps (inside the selected language folder):
 The explanation of each step will be inside of each script (Jupyter notebook format) (red)
 
-### Quality Control (`00QC`/)
+### Quality Control (`00QC/`)
 - `00arrayqc_preimputation/`: Pre-imputation QC  
 - `01arrayqc_postimputation/`: Post-imputation QC
 
