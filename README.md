@@ -20,9 +20,9 @@ The scripts are available in **English**, **Spanish**, and **Portuguese**.
 📄 [View the full document here](https://docs.google.com/document/d/1RzD5kBlj9rfiomda1G3NfxYDXLdmIUO7VX0cSNj70Kk/edit?usp=sharing)
 
 ---  
-### 📂 Repository Structure
-### 📂 Estructura del repositorio
-### 📂 Estrutura de repositório
+### Repository Structure
+### Estructura del repositorio
+### Estrutura de repositório
 
 
 ***English:*** ❗Each language path has exactly the same repository structure. The explanation of each step will be inside of each script (Jupyter notebook format)<br>
@@ -104,9 +104,9 @@ Contém scripts para rodar GWAS utilizando o seguinte software:
 - `02Saige/`
   
 ---
-### 📂  Folder Structure Summary (All Languages)
-### 📂 Resumen de la estructura de carpetas (todos los idiomas)
-### 📂 Resumo da estrutura de pastas (todos os idiomas)
+### Folder Structure Summary (All Languages)
+### Resumen de la estructura de carpetas (todos los idiomas)
+### Resumo da estrutura de pastas (todos os idiomas)
 
 | Folder/ Carpeta/ Pasta  | English                             | Español                                      | Português                                  |
 |-------------------------|-------------------------------------|----------------------------------------------|--------------------------------------------|
