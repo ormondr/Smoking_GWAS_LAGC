@@ -100,7 +100,9 @@ Contém scripts para rodar GWAS utilizando o seguinte software:
 - `01GMMAT/`
 - `02Saige/`
 
-## 📂 Folder Structure Summary (All Languages)
+### 📂 Folder Structure Summary (All Languages)
+### 📂 Resumen de la estructura de carpetas (todos los idiomas)
+### 📂 Resumo da estrutura de pastas (todos os idiomas)
 
 | Folder/ Carpeta/ Pasta  | English                            | Español                                      | Português                                 |
 |-------------------------|-------------------------------------|----------------------------------------------|--------------------------------------------|
