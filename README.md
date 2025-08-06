@@ -102,13 +102,13 @@ Contém scripts para rodar GWAS utilizando o seguinte software:
 
 ## 📂 Folder Structure Summary (All Languages)
 
-| Step                    | Folder                  | English                            | Español                                      | Português                                 |
-|-------------------------|-------------------------|-------------------------------------|----------------------------------------------|--------------------------------------------|
-| Quality Control         | `00QC/00arrayqc_preimputation/` | Pre-imputation QC                  | Control de calidad antes de la imputación   | Controle de qualidade antes da imputação  |
-|                         | `00QC/01arrayqc_postimputation/`| Post-imputation QC                 | Control de calidad después de la imputación | Controle de qualidade após a imputação    |
-| Data Preparation (PCA)  | `01PC/00PCAir/`         | Principal Components Calculation    | Cálculo de componentes principales           | Cálculo dos componentes principais         |
-| Data Preparation (GWAS) | `02dataprep/00dataprep_gwas/` | Data formatting for GWAS          | Formateo de datos para GWAS                  | Formatação dos dados para GWAS             |
-| GWAS Execution          | `03GWAS/00Regenie/`      | Regenie                             | Regenie                                      | Regenie                                    |
-|                         | `03GWAS/01GMMAT/`        | GMMAT                               | GMMAT                                        | GMMAT                                      |
-|                         | `03GWAS/02Saige/`        | SAIGE     
+| Folder/ Carpeta/ Pasta  | English                            | Español                                      | Português                                 |
+|-------------------------|-------------------------------------|----------------------------------------------|--------------------------------------------|
+| `00QC/00arrayqc_preimputation/` | Pre-imputation QC                  | Control de calidad antes de la imputación   | Controle de qualidade antes da imputação  |
+| `00QC/01arrayqc_postimputation/`| Post-imputation QC                 | Control de calidad después de la imputación | Controle de qualidade após a imputação    |
+| `01PC/00PCAir/`         | Principal Components Calculation    | Cálculo de componentes principales           | Cálculo dos componentes principais         |
+| `02dataprep/00dataprep_gwas/` | Data formatting for GWAS          | Formateo de datos para GWAS                  | Formatação dos dados para GWAS             |
+| `03GWAS/00Regenie/`      | Regenie                             | Regenie                                      | Regenie                                    |
+| `03GWAS/01GMMAT/`        | GMMAT                               | GMMAT                                        | GMMAT                                      |
+| `03GWAS/02Saige/`        | SAIGE     
 
