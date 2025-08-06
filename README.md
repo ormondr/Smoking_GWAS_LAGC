@@ -22,7 +22,7 @@ The scripts are available in **English**, **Spanish**, and **Portuguese**.
 --- 
 ## Repository Structure
 
-Each language path have exactly the same repository structure (red)
+***English:*** Each language path have exactly the same repository structure (red)
 Please select the desired language folder
 The explanation of each step will be inside of each script (Jupyter notebook format) (red)
 The scripts are organized into the following steps (inside the selected language folder):
@@ -31,8 +31,26 @@ The scripts are organized into the following steps (inside the selected language
 - `Espanol/`
 - `Portugues/`
 
+  ***Español:*** Cada carpeta de idioma tiene exactamente la misma estructura de repositorio (en rojo)  
+Por favor, seleccione la carpeta del idioma deseado  
+La explicación de cada paso estará dentro de cada script (en formato Jupyter notebook) (en rojo)  
+Los scripts están organizados en los siguientes pasos (dentro de la carpeta de idioma seleccionada):
+
+- `English/`
+- `Espanol/`
+- `Portugues/`
+
+***Português:*** Cada pasta de idioma possui exatamente a mesma estrutura de repositório (em vermelho)  
+Por favor, selecione a pasta do idioma desejado  
+A explicação de cada etapa estará dentro de cada script (no formato Jupyter notebook) (em vermelho)  
+Os scripts estão organizados nas seguintes etapas (dentro da pasta de idioma selecionada):
+
+- `English/`
+- `Espanol/`
+- `Portugues/`
+
 --- 
-## `English/`
+### 🌎 `English/`
 
 ### Quality Control (`00QC/`)
 - `00arrayqc_preimputation/`: Pre-imputation QC  
@@ -51,7 +69,7 @@ Contains scripts for running GWAS using the following software:
 - `02Saige/`
 
 ---
-## `Espanol/`
+### 🌎 `Espanol/`
 
 ### Control de Calidad (`00QC/`)
 - `00arrayqc_preimputation/`: Control de calidad antes de la imputación  
@@ -70,7 +88,7 @@ Contiene scripts para ejecutar GWAS utilizando el siguiente software:
 - `02Saige/`
   
 ---
-## `Portugues/`
+### 🌎 `Portugues/`
 
 ### Controle de Qualidade (`00QC/`)
 - `00arrayqc_preimputation/`: Controle de qualidade antes da imputação  
