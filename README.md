@@ -44,7 +44,7 @@ Os scripts estão organizados nas seguintes etapas (dentro da pasta do idioma se
 - ***`Portugues/`*** 
 
 --- 
-### 🌎 `English/`
+### `English/`
 
 ### Quality Control (`00QC/`)
 - `00arrayqc_preimputation/`: Pre-imputation QC  
@@ -63,7 +63,7 @@ Contains scripts for running GWAS using the following software:
 - `02Saige/`
 
 ---
-### 🌎 `Espanol/`
+### `Espanol/`
 
 ### Control de Calidad (`00QC/`)
 - `00arrayqc_preimputation/`: Control de calidad antes de la imputación  
@@ -82,7 +82,7 @@ Contiene scripts para ejecutar GWAS utilizando el siguiente software:
 - `02Saige/`
   
 ---
-### 🌎 `Portugues/`
+### `Portugues/`
 
 ### Controle de Qualidade (`00QC/`)
 - `00arrayqc_preimputation/`: Controle de qualidade antes da imputação  
