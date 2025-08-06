@@ -99,7 +99,8 @@ Contém scripts para rodar GWAS utilizando o seguinte software:
 - `00Regenie/`
 - `01GMMAT/`
 - `02Saige/`
-
+  
+---
 ### 📂 Folder Structure Summary (All Languages)
 ### 📂 Resumen de la estructura de carpetas (todos los idiomas)
 ### 📂 Resumo da estrutura de pastas (todos os idiomas)
