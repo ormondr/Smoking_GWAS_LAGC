@@ -120,5 +120,5 @@ Contém scripts para rodar GWAS utilizando o seguinte software:
 | `03GWAS/`      | Genome Wide Association Studies pipelines | Pipelines de Estudios de Asociación del Genoma Completo  |  Pipelines de Estudos de Associação do Genoma Completo |
 | `03GWAS/00Regenie/`      | Regenie                             | Regenie                                      | Regenie                                    |
 | `03GWAS/01GMMAT/`        | GMMAT                               | GMMAT                                        | GMMAT                                      |
-| `03GWAS/02Saige/`        | SAIGE     
+| `03GWAS/02Saige/`        | SAIGE                               | SAIGE                                        | SAIGE                                      |
 
