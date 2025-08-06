@@ -110,7 +110,7 @@ Contém scripts para rodar GWAS utilizando o seguinte software:
 | `00QC/`                 | Quality Control                     | Control de calidad                           | Controle de qualidade                      |
 | `00QC/00arrayqc_preimputation/` | Pre-imputation QC                  | Control de calidad antes de la imputación   | Controle de qualidade antes da imputação  |
 | `00QC/01arrayqc_postimputation/`| Post-imputation QC                 | Control de calidad después de la imputación | Controle de qualidade após a imputação    |
-| `01PC`         | Principal Components Calculation    | Cálculo de componentes principales           | Cálculo dos componentes principais         |
+| `01PC/`         | Principal Components Calculation    | Cálculo de componentes principales           | Cálculo dos componentes principais         |
 | `01PC/00PCAir/`         | Principal Components Calculation using PCAir   | Cálculo de componentes principales mediante PCAir   | Cálculo dos componentes principais usando PCAir |
 | `02dataprep/` | Data preparation          | Preparación de datos                 | Preparação de dados
 | `02dataprep/00dataprep_gwas/` | Data formatting for GWAS          | Formateo de datos para GWAS                  | Formatação dos dados para GWAS          |
