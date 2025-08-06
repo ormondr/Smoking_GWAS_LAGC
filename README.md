@@ -29,19 +29,15 @@ The scripts are organized into the following steps (inside the selected language
 - `Espanol/`
 - `Portugues/`
 
-  ***Español:*** Cada carpeta de idioma tiene exactamente la misma estructura de repositorio (en rojo)  
-Por favor, seleccione la carpeta del idioma deseado  
-La explicación de cada paso estará dentro de cada script (en formato Jupyter notebook) (en rojo)  
+  ***Español:*** <span style="color:red">Cada carpeta de idioma tiene exactamente la misma estructura de repositorio. La explicación de cada paso estará dentro de cada script (formato Jupyter notebook)</span>  
 Los scripts están organizados en los siguientes pasos (dentro de la carpeta de idioma seleccionada):
 
 - `English/`
 - ***`Espanol/`*** 
 - `Portugues/`
 
-***Português:*** Cada pasta de idioma possui exatamente a mesma estrutura de repositório (em vermelho)  
-Por favor, selecione a pasta do idioma desejado  
-A explicação de cada etapa estará dentro de cada script (no formato Jupyter notebook) (em vermelho)  
-Os scripts estão organizados nas seguintes etapas (dentro da pasta de idioma selecionada):
+***Português:*** <span style="color:red">Cada pasta de idioma possui exatamente a mesma estrutura de repositório. A explicação de cada etapa estará dentro de cada script (formato Jupyter notebook)</span>  
+Os scripts estão organizados nas seguintes etapas (dentro da pasta do idioma selecionado):
 
 - `English/`
 - `Espanol/`
