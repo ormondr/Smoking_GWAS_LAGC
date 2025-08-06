@@ -21,6 +21,9 @@ The scripts are available in **English**, **Spanish**, and **Portuguese**.
 
 --- 
 ## Repository Structure
+## Estructura del repositorio
+## Estrutura de repositório
+
 
 ***English:*** ❗Each language path has exactly the same repository structure. The explanation of each step will be inside of each script (Jupyter notebook format)<br>
 The scripts are organized into the following steps (inside the selected language folder):
