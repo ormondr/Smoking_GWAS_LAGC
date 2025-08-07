@@ -21,6 +21,25 @@ The scripts are available in **English**, **Spanish**, and **Portuguese**.
 **Plano de análise e detalhes do fenótipo:**
 📄 [Visualizar o documento completo aqui](https://docs.google.com/document/d/1RzD5kBlj9rfiomda1G3NfxYDXLdmIUO7VX0cSNj70Kk/edit?usp=sharing)
 
+---  
+### Repository Structure
+### Estructura del repositorio
+### Estrutura de repositório
+
+
+***English:*** ❗Each language folder has exactly the same repository structure.  
+The explanation for each step is provided inside each script (Jupyter Notebook format). As pastas com cada linguagem são mostradas abaixo.
+
+***Español:*** ❗Cada carpeta de idioma tiene exactamente la misma estructura de repositorio.  
+La explicación de cada paso está incluida dentro de cada script (formato Jupyter Notebook). A continuación se muestran las carpetas con cada idioma.
+
+***Português:*** ❗Cada pasta de idioma possui exatamente a mesma estrutura de repositório.  
+A explicação de cada etapa está incluída dentro de cada script (formato Jupyter Notebook). The folders with each language are shown below.
+
+- [`English/`](./English/)
+- [`Espanol/`](./Espanol/)
+- [`Portugues/`](./Portugues/)
+
 
 ---  
 ### Repository Structure
@@ -99,9 +118,9 @@ Contém scripts para rodar GWAS utilizando o seguinte software:
 - `02Saige/`
   
 ---
-### Folder Structure Summary (All Languages)
-### Resumen de la estructura de carpetas (todos los idiomas)
-### Resumo da estrutura de pastas (todos os idiomas)
+### ***English:*** Folder Structure Summary (All Languages)
+### ***Español:*** Resumen de la estructura de carpetas (todos los idiomas)
+### ***Português:*** Resumo da estrutura de pastas (todos os idiomas)
 
 | Folder/ Carpeta/ Pasta  | English                             | Español                                      | Português                                  |
 |-------------------------|-------------------------------------|----------------------------------------------|--------------------------------------------|
