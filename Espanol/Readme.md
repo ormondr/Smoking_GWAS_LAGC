@@ -1,5 +1,5 @@
 ## GWAS Consumo de Tabaco en LAGC<br>
-**Autores:** [Rafaella Ormond](https://github.com/ormondr) and [Jose Jaime Martinez-Magaña](https://github.com/martinezjaime)
+**Autores:** [Rafaella Ormond](https://github.com/ormondr) y [Jose Jaime Martinez-Magaña](https://github.com/martinezjaime)
 
 ---
 Este repositorio contiene el flujo de trabajo para el **Meta-análisis de GWAS del consumo de Tabaco** como parte del **Latin American Genomic Consoritium (LAGC) [LINK](https://www.latinamericangenomicsconsortium.org/pt)**<br>
