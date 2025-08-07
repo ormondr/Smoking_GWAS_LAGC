@@ -14,11 +14,12 @@ The scripts are available in **English**, **Spanish**, and **Portuguese**.
 📄 [View the full document here](https://docs.google.com/document/d/1RzD5kBlj9rfiomda1G3NfxYDXLdmIUO7VX0cSNj70Kk/edit?usp=sharing)
 
 ***Español:*** Este repositorio contiene el flujo de trabajo para el **Meta-análisis de GWAS del consumo de Tabaco** como parte del **Latin American Genomic Consoritium (LAGC) [LINK](https://www.latinamericangenomicsconsortium.org/pt)**
+**Plan de análisis y detalles del fenotipo:**
+📄 [Ver el documento completo aquí](https://docs.google.com/document/d/1RzD5kBlj9rfiomda1G3NfxYDXLdmIUO7VX0cSNj70Kk/edit?usp=sharing)
 
-**Plan de análisis y detalles del fenotipo:** 📄 [Ver el documento completo aquí](https://docs.google.com/document/d/1RzD5kBlj9rfiomda1G3NfxYDXLdmIUO7VX0cSNj70Kk/edit?usp=sharing)
-
+***Português:*** Este repositório contém o fluxo de trabalho para a **Meta-análise do GWAS sobre o consumo de tabaco** como parte do **Consórcio Genômico Latino-Americano (LAGC) [LINK](https://www.latinamericangenomicsconsortium.org/pt)**
 **Plano de análise e detalhes do fenótipo:**
-📄 [Veja o documento completo aqui](https://docs.google.com/document/d/1RzD5kBlj9rfiomda1G3NfxYDXLdmIUO7VX0cSNj70Kk/edit?usp=sharing)
+📄 [Visualizar o documento completo aqui](https://docs.google.com/document/d/1RzD5kBlj9rfiomda1G3NfxYDXLdmIUO7VX0cSNj70Kk/edit?usp=sharing)
 
 
 ---  
