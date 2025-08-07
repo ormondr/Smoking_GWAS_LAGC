@@ -25,26 +25,18 @@ The scripts are available in **English**, **Spanish**, and **Portuguese**.
 ### Estrutura de repositório
 
 
-***English:*** ❗Each language path has exactly the same repository structure. The explanation of each step will be inside of each script (Jupyter notebook format)<br>
-The scripts are organized into the following steps (inside the selected language folder):
+***English:*** ❗Each language folder has exactly the same repository structure.  
+The explanation for each step is provided inside each script (Jupyter Notebook format).
 
-- ***`English/`*** 
-- `Espanol/`
-- `Portugues/`
+***Español:*** ❗Cada carpeta de idioma tiene exactamente la misma estructura de repositorio.  
+La explicación de cada paso está incluida dentro de cada script (formato Jupyter Notebook).
 
-***Español:*** ❗Cada carpeta de idioma tiene exactamente la misma estructura de repositorio. La explicación de cada paso estará dentro de cada script (formato Jupyter notebook)<br>
-Los scripts están organizados en los siguientes pasos (dentro de la carpeta de idioma seleccionada):
+***Português:*** ❗Cada pasta de idioma possui exatamente a mesma estrutura de repositório.  
+A explicação de cada etapa está incluída dentro de cada script (formato Jupyter Notebook).
 
-- `English/`
-- ***`Espanol/`*** 
-- `Portugues/`
-
-***Português:*** ❗Cada pasta de idioma possui exatamente a mesma estrutura de repositório. A explicação de cada etapa estará dentro de cada script (formato Jupyter notebook)<br> 
-Os scripts estão organizados nas seguintes etapas (dentro da pasta do idioma selecionado):
-
-- `English/`
-- `Espanol/`
-- ***`Portugues/`*** 
+- [`English/`](./English/)
+- [`Espanol/`](./Espanol/)
+- [`Portugues/`](./Portugues/)
 
 --- 
 ### `English/`
