@@ -10,14 +10,16 @@
 The scripts are available in **English**, **Spanish**, and **Portuguese**.  
 
 ***English:*** This repository contains the analysis workflow for the **GWAS meta-analysis of smoking traits** as part of the **Latin American Genomic Consortium (LAGC) [LINK](https://www.latinamericangenomicsconsortium.org/pt)**
+**Analysis plan and phenotype details:**  
+📄 [View the full document here](https://docs.google.com/document/d/1RzD5kBlj9rfiomda1G3NfxYDXLdmIUO7VX0cSNj70Kk/edit?usp=sharing)
 
 ***Español:*** Este repositorio contiene el flujo de trabajo para el **Meta-análisis de GWAS del consumo de Tabaco** como parte del **Latin American Genomic Consoritium (LAGC) [LINK](https://www.latinamericangenomicsconsortium.org/pt)**
 
-***Português:*** Este repositório contem o fluxo de trabaho para a **Meta-análise de GWAS de consumo de Tabaco** como parte do **Latin American Genomic Consoritium (LAGC) [LINK](https://www.latinamericangenomicsconsortium.org/pt)**
+**Plan de análisis y detalles del fenotipo:** 📄 [Ver el documento completo aquí](https://docs.google.com/document/d/1RzD5kBlj9rfiomda1G3NfxYDXLdmIUO7VX0cSNj70Kk/edit?usp=sharing)
 
+**Plano de análise e detalhes do fenótipo:**
+📄 [Veja o documento completo aqui](https://docs.google.com/document/d/1RzD5kBlj9rfiomda1G3NfxYDXLdmIUO7VX0cSNj70Kk/edit?usp=sharing)
 
-**Analysis plan and phenotype details:**  
-📄 [View the full document here](https://docs.google.com/document/d/1RzD5kBlj9rfiomda1G3NfxYDXLdmIUO7VX0cSNj70Kk/edit?usp=sharing)
 
 ---  
 ### Repository Structure
