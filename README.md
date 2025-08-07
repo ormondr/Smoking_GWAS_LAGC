@@ -5,9 +5,11 @@
 **Authors:** [Rafaella Ormond](https://github.com/ormondr) and [Jose Jaime Martinez-Magaña](https://github.com/martinezjaime)
 
 ---
-### 🌎 Available in different languages:
+### 🌎 Available in Different Languages: The scripts are available in **English**, **Spanish**, and **Portuguese**.
 
-The scripts are available in **English**, **Spanish**, and **Portuguese**.  
+### 🌎 Disponible en diferentes idiomas: Los scripts están disponibles en **inglés**, **español** y **portugués**.
+
+### 🌎 Disponível em diferentes idiomas: Os scripts estão disponíveis em **inglês**, **espanhol** e **português**.
 
 ***English:*** This repository contains the analysis workflow for the **GWAS meta-analysis of smoking traits** as part of the **Latin American Genomic Consortium (LAGC) [LINK](https://www.latinamericangenomicsconsortium.org/pt)**<br>
 **Analysis plan and phenotype details:**
