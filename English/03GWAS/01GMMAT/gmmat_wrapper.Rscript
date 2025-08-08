@@ -1,0 +1,54 @@
+####################################################################################
+# script to run GMMAT scoring test in PLINK files
+# day: 25 jul 2025
+# author: Jose Jaime Martinez-Magana and Rafaella Ormond
+####################################################################################
+# This script will run GMMAT using null models performed before
+####################################################################################
+# loading libraries
+library(optparse)
+library(GMMAT)
+####################################################################################
+# set parameters
+# this function uses the library optparse to add arguments to the script
+# adding arguments to the script
+option_list = list(
+    make_option(c("--nullmodel_path"), type="character", default=NULL,
+                help="complete path to rds object having the null model built with GMMAT. Example: /data/nul_model/null_model_hgt.rds ", metavar="character"),
+    make_option(c("--genofile"), type="character", default=NULL,
+                help="path to the plink files. Example: /data/example.bed", metavar="character"),
+    make_option(c("--remove_fid"), type="character", default=NULL,
+                help="TRUE if the script should split the character to split the FID and IID in the null model, based on underscore _ Example: FID_IID to only IID", metavar="character"),
+    make_option(c("--outfile_path"), type="character", default=NULL,
+                help="output file name for the tsv with association statistics. Example /data/analysis/results_ancestry_specific.tsv", metavar="character")
+);
+# setting parameters
+opt_parser = OptionParser(option_list=option_list);
+opt = parse_args(opt_parser);
+####################################################################################
+# reading data
+# reading null models
+model0=readRDS(opt$nullmodel_path)
+# setting path for genofile
+geno_file=opt$genofile
+# setting path for storing summary stats results
+outfile=opt$outfile_path
+
+# splitting FID_and IID
+if(opt$remove_fid){
+    print(paste0("Removing FID from null models based on _"))
+    fid_id_s=strsplit(model0$id_include, "_")
+    fid_id_splitted=c()
+    for(i in 1:length(fid_id_s)){
+        id=fid_id_s[[i]][2]
+        fid_id_splitted=c(fid_id_splitted, id)
+    }
+    model0$id_include=fid_id_splitted
+} else {
+    model0$id_include=model0$id_include
+}
+
+# running scoring test with GMMAT
+glmm.score(model0,
+           infile=geno_file,
+           outfile=outfile)
