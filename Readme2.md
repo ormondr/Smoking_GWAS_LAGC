@@ -23,16 +23,14 @@ The scripts are available in **English**, **Spanish**, and **Portuguese**.
 
 ---  
 ### Repository Structure
-### Estructura del repositorio
-### Estrutura de repositório
-
-
 ***English:*** ❗Each language folder has exactly the same repository structure.  
 The explanation for each step is provided inside each script (Jupyter Notebook format). As pastas com cada linguagem são mostradas abaixo.
 
+### Estructura del repositorio
 ***Español:*** ❗Cada carpeta de idioma tiene exactamente la misma estructura de repositorio.  
 La explicación de cada paso está incluida dentro de cada script (formato Jupyter Notebook). A continuación se muestran las carpetas con cada idioma.
 
+### Estrutura de repositório
 ***Português:*** ❗Cada pasta de idioma possui exatamente a mesma estrutura de repositório.  
 A explicação de cada etapa está incluída dentro de cada script (formato Jupyter Notebook). The folders with each language are shown below.
 
