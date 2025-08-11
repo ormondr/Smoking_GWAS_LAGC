@@ -3,8 +3,8 @@
 
 ---
 
-Este repositorio contiene el flujo de trabajo para el **Meta-análisis de GWAS del consumo de Tabaco** como parte del **Latin American Genomic Consoritium (LAGC) [LINK](https://www.latinamericangenomicsconsortium.org/pt)**<br>
-**Plan de análisis y detalles del fenotipo:**
+Para mayor informacion sobre los fenotipos consultar el siguiente **Plan de análisis y detalles del fenotipo:**
+
 📄 [Ver el documento completo aquí](https://docs.google.com/document/d/1RzD5kBlj9rfiomda1G3NfxYDXLdmIUO7VX0cSNj70Kk/edit?usp=sharing)
 
 ---
