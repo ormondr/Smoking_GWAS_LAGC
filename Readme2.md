@@ -4,13 +4,10 @@
 
 **Authors:** [Rafaella Ormond](https://github.com/ormondr) and [Jose Jaime Martinez-Magaña](https://github.com/martinezjaime)
 
----
 ### 🌎 Available in different languages:
 The scripts are available in **English**, **Spanish**, and **Portuguese**.<br>
-### 🌎 Disponible en diferentes idiomas:
-Los guiones están disponibles en **inglés**, **español** y **portugués**.<br>
-### 🌎 Disponível em diferentes idiomas:
-Os scripts estão disponíveis em **Inglês**, **Espanhol** e **Português**.<br>
+
+---
 
 ***English:*** This repository contains the analysis workflow for the **GWAS meta-analysis of smoking traits** as part of the **Latin American Genomic Consortium (LAGC) [LINK](https://www.latinamericangenomicsconsortium.org/pt)**<br>
 **Analysis plan and phenotype details:**
@@ -25,6 +22,7 @@ Os scripts estão disponíveis em **Inglês**, **Espanhol** e **Português**.<br
 📄 [Visualizar o documento completo aqui](https://docs.google.com/document/d/1RzD5kBlj9rfiomda1G3NfxYDXLdmIUO7VX0cSNj70Kk/edit?usp=sharing)
 
 ---  
+
 ### Repository Structure
 ***English:*** ❗Each language folder has exactly the same repository structure.  
 The explanation for each step is provided inside each script (Jupyter Notebook format). As pastas com cada linguagem são mostradas abaixo.
@@ -50,8 +48,8 @@ A explicação de cada etapa está incluída dentro de cada script (formato Jupy
 | `01PC/`         | Principal Components Calculation    | Cálculo de componentes principales           | Cálculo dos componentes principais         |
 | `01PC/00PCAir/`         | PCAir   | PCAir   | PCAir |
 | `02dataprep/` | Data preparation          | Preparación de datos                 | Preparação de dados
-| `02dataprep/00dataprep_gwas/` | Data formatting for GWAS          | Formateo de datos para GWAS                  | Formatação dos dados para GWAS          |
-| `03GWAS/`      | Genome Wide Association Studies pipelines | Pipelines de Estudios de Asociación del Genoma Completo  |  Pipelines de Estudos de Associação do Genoma Completo |
+| `02dataprep/00dataprep_gwas/` | Data formatting for GWAS          | Formato para datos para GWAS                  | Formatação dos dados para GWAS          |
+| `03GWAS/`      | Genome Wide Association Studies pipelines | Tuberias de Estudios de Asociación del Genoma Completo  |  Pipelines de Estudos de Associação do Genoma Completo |
 | `03GWAS/00Regenie/`      | Regenie                             | Regenie                                      | Regenie                                    |
 | `03GWAS/01GMMAT/`        | GMMAT                               | GMMAT                                        | GMMAT                                      |
 | `03GWAS/02Saige/`        | SAIGE                               | SAIGE                                        | SAIGE                                      |
