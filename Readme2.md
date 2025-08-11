@@ -6,9 +6,11 @@
 
 ---
 ### 🌎 Available in different languages:
-
-The scripts are available in **English**, **Spanish**, and **Portuguese**.  
-
+The scripts are available in **English**, **Spanish**, and **Portuguese**.<br>
+### 🌎 Disponible en diferentes idiomas:
+Los guiones están disponibles en **inglés**, **español** y **portugués**.<br>
+### 🌎 Disponível em diferentes idiomas:
+Os scripts estão disponíveis em **Inglês**, **Espanhol** e **Português**.<br>
 
 ***English:*** This repository contains the analysis workflow for the **GWAS meta-analysis of smoking traits** as part of the **Latin American Genomic Consortium (LAGC) [LINK](https://www.latinamericangenomicsconsortium.org/pt)**<br>
 **Analysis plan and phenotype details:**
