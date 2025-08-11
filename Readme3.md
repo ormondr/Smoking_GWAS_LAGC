@@ -42,17 +42,3 @@ A explicação de cada etapa está incluída dentro de cada script (formato Jupy
 
 
 ---
-
-| Folder/ Carpeta/ Pasta  | English                             | Español                                      | Português                                  |
-|-------------------------|-------------------------------------|----------------------------------------------|--------------------------------------------|
-| `00QC/`                 | Quality Control                     | Control de calidad                           | Controle de qualidade                      |
-| `00QC/00arrayqc_preimputation/` | Pre-imputation QC                  | Control de calidad antes de la imputación   | Controle de qualidade antes da imputação  |
-| `00QC/01arrayqc_postimputation/`| Post-imputation QC                 | Control de calidad después de la imputación | Controle de qualidade após a imputação    |
-| `01PC/`         | Principal Components Calculation    | Cálculo de componentes principales           | Cálculo dos componentes principais         |
-| `01PC/00PCAir/`         | PCAir   | PCAir   | PCAir |
-| `02dataprep/` | Data preparation          | Preparación de datos                 | Preparação de dados
-| `02dataprep/00dataprep_gwas/` | Data formatting for GWAS          | Formato para datos para GWAS                  | Formatação dos dados para GWAS          |
-| `03GWAS/`      | Genome Wide Association Studies pipelines | Tuberias de Estudios de Asociación del Genoma Completo  |  Pipelines de Estudos de Associação do Genoma Completo |
-| `03GWAS/00Regenie/`      | Regenie                             | Regenie                                      | Regenie                                    |
-| `03GWAS/01GMMAT/`        | GMMAT                               | GMMAT                                        | GMMAT                                      |
-| `03GWAS/02Saige/`        | SAIGE                               | SAIGE                                        | SAIGE                                      |
