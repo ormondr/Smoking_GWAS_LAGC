@@ -1,5 +1,3 @@
----
-
 ## GWAS Consumo de Tabaco en LAGC<br>
 **Autores:** [Rafaella Ormond](https://github.com/ormondr) y [Jose Jaime Martinez-Magaña](https://github.com/martinezjaime)
 
