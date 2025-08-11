@@ -5,7 +5,7 @@
 
 Para mayor informacion sobre los fenotipos consultar el siguiente **Plan de análisis:**
 
-📄 [Ver el documento completo aquí](https://docs.google.com/document/d/1RzD5kBlj9rfiomda1G3NfxYDXLdmIUO7VX0cSNj70Kk/edit?usp=sharing)
+Consultar Plan de analisis aqui: 📄 [Ver el documento completo aquí](https://docs.google.com/document/d/1RzD5kBlj9rfiomda1G3NfxYDXLdmIUO7VX0cSNj70Kk/edit?usp=sharing)
 
 ---
 
