@@ -41,9 +41,6 @@ A explicação de cada etapa está incluída dentro de cada script (formato Jupy
 - [`Portugues/`](./Portugues/)
 
 ---
-### ***English:*** Folder Structure Summary (All Languages)
-### ***Español:*** Resumen de la estructura de carpetas (todos los idiomas)
-### ***Português:*** Resumo da estrutura de pastas (todos os idiomas)
 
 | Folder/ Carpeta/ Pasta  | English                             | Español                                      | Português                                  |
 |-------------------------|-------------------------------------|----------------------------------------------|--------------------------------------------|
