@@ -16,10 +16,7 @@ Para mayor información sobre los fenotipos consultar el siguiente **Plan de an�
 ### Preparación de Datos (`01PC/`)
 - `00PCAir/`: Cálculo de componentes principales para el análisis
 
-### Preparación de Datos (`02dataprep/`)
-- `00dataprep_gwas/`: Formateo de datos para GWAS
-
-### Ejecución de GWAS (`03GWAS/`)
+### Ejecución de GWAS (`02GWAS/`)
 Contiene scripts para ejecutar GWAS utilizando el siguiente software:
 - `00Regenie/`
 - `01GMMAT/`
