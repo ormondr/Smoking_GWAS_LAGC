@@ -17,11 +17,8 @@ For more information about the phenotypes, please refer to the following analysi
 
 ### Data Preparation (`01PC/`)
 - `00PCAir/`: Principal Components Calculation for the analysis
-  
-### Data Preparation (`02dataprep/`)
-- `00dataprep_gwas/`: Data formatting for GWAS
 
-### GWAS Execution (`03GWAS/`)
+### GWAS Execution (`02GWAS/`)
 Contains scripts for running GWAS using the following software:
 - `00Regenie/`
 - `01GMMAT/`
