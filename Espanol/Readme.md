@@ -3,9 +3,9 @@
 
 ---
 
-Para mayor informacion sobre los fenotipos consultar el siguiente **Plan de análisis:**
+Para mayor información sobre los fenotipos consultar el siguiente **Plan de análisis:**
 
-📄 [Consultar Plan de analisis aquí](https://docs.google.com/document/d/1RzD5kBlj9rfiomda1G3NfxYDXLdmIUO7VX0cSNj70Kk/edit?usp=sharing)
+📄 [Consultar Plan de análisis aquí](https://docs.google.com/document/d/1RzD5kBlj9rfiomda1G3NfxYDXLdmIUO7VX0cSNj70Kk/edit?usp=sharing)
 
 ---
 
