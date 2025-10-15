@@ -12,14 +12,14 @@ For more information about the phenotypes, please refer to the following analysi
 ### Repository Structure
 
 ### Quality Control (`00QC/`)
-- `00arrayqc_preimputation/`: Pre-imputation QC  
-- `01arrayqc_postimputation/`: Post-imputation QC
+- `00arrayqc_preimputation`: Pre-imputation QC  
+- `01arrayqc_postimputation`: Post-imputation QC
 
 ### Data Preparation (`01PC/`)
-- `00PCAir/`: Principal Components Calculation for the analysis
+- `00PCAir`: Principal Components Calculation for the analysis
 
 ### GWAS Execution (`02GWAS/`)
 Contains scripts for running GWAS using the following software:
-- `00Regenie/`
-- `01GMMAT/`
-- `02Saige/`
+- `00Regenie`
+- `01GMMAT`
+- `02Saige`
