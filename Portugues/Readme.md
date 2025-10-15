@@ -5,7 +5,7 @@
 
 Para maiores informações sobre os fenótipos consultar o siguinte **Plano de análises:**
 
-📄 [Consultar Plano de análises aqui](https://docs.google.com/document/d/1RzD5kBlj9rfiomda1G3NfxYDXLdmIUO7VX0cSNj70Kk/edit?usp=sharing)
+📄 [Consultar Plano de análises aqui](https://docs.google.com/document/d/14OkYgT9bguH8ciYjkQ8W09lsi9ZGiRy0fg5WS8MDcNA/edit?tab=t.0)
 
 ---
 ### Estrutura de repositório
