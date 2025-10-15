@@ -20,6 +20,6 @@ For more information about the phenotypes, please refer to the following analysi
 
 ### GWAS Execution (`02GWAS/`)
 Contains scripts for running GWAS using the following software:
-- `00Regenie`
-- `01GMMAT`
-- `02Saige`
+- `00Regenie/`
+- `01GMMAT/`
+- `02Saige/`
