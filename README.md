@@ -37,7 +37,7 @@ La explicación de cada paso está incluida dentro de cada script (formato Jupyt
 ***Português:*** Este repositório contém o fluxo de trabalho para a **Meta-análise do GWAS sobre o consumo de tabaco** como parte do **Consórcio Genômico Latino-Americano (LAGC) [LINK](https://www.latinamericangenomicsconsortium.org/pt)**<br>
 
 **Plano de análise e detalhes do fenótipo:**
-📄 [Visualizar o documento completo aqui](https://docs.google.com/document/d/1RzD5kBlj9rfiomda1G3NfxYDXLdmIUO7VX0cSNj70Kk/edit?usp=sharing)
+📄 [Visualizar o documento completo aqui](https://docs.google.com/document/d/14OkYgT9bguH8ciYjkQ8W09lsi9ZGiRy0fg5WS8MDcNA/edit?tab=t.0)
 
 ### Estrutura de repositório
 ***Português:*** ❗Cada pasta de idioma possui exatamente a mesma estrutura de repositório.  
