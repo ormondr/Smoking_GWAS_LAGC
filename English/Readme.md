@@ -5,7 +5,7 @@
 
 For more information about the phenotypes, please refer to the following analysis plan:
 
-📄 [View analysis plan here] (https://docs.google.com/document/d/1DNIL7f9_f1zhSIBOIzSpxEV-9lUjsZxbvsxgYS3t7x8/edit?usp=sharing)
+📄 [View analysis plan here](https://docs.google.com/document/d/1DNIL7f9_f1zhSIBOIzSpxEV-9lUjsZxbvsxgYS3t7x8/edit?usp=sharing)
 
 ---
 
