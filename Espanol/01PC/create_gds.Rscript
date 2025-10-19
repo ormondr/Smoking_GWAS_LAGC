@@ -1,0 +1,43 @@
+####################################################################################
+# This script uses a plink file to create a GDS file for input to PCAiR
+####################################################################################
+# set parameters
+# this function uses the library optparse to add arguments to the script
+# adding arguments to the script
+library(optparse) 
+option_list = list(
+    make_option(c("--plinkfile"), type="character", default=NULL,
+                help="path to the directory storing the plink files, 
+without plink extensions *bed/*bim/*fam", metavar="character"),
+    make_option(c("--out"), type="character", default=NULL,
+                help="output file name for GDS file, use complete path, 
+example /data/analsyis/analysis.gds", metavar="character")
+);
+
+opt_parser = OptionParser(option_list=option_list);
+opt = parse_args(opt_parser);
+
+if (is.null(opt$plinkfile)){
+    print_help(opt_parser)
+    stop("At least one argument must be supplied (input file)", 
+call.=FALSE)
+}
+
+###################################################################################
+# load libraries
+library(GENESIS)
+library(GWASTools)
+library(SNPRelate)
+
+# create list of files
+bed_f=paste0(opt$plinkfile,".bed",sep="")
+bim_f=paste0(opt$plinkfile,".bim",sep="")
+fam_f=paste0(opt$plinkfile,".fam",sep="")
+
+# create gds output files
+snpgdsBED2GDS(bed.fn=bed_f,
+              bim.fn=bim_f,
+              fam.fn=fam_f,
+              family=TRUE,
+              out.gdsfn=opt$out)
+# end of script
