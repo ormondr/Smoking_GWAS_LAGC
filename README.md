@@ -3,7 +3,7 @@
 ### 🌎 Available in different languages:
 The scripts are available in **English**, **Spanish**, and **Portuguese**.<br>
 
-**Authors:** [Rafaella Ormond](https://github.com/ormondr) and [Jose Jaime Martinez-Magaña](https://github.com/martinezjaime)
+**Authors:** [Rafaella Ormond](https://github.com/ormondr), [Jose Jaime Martinez-Magaña](https://github.com/martinezjaime) and [Diego Andrade-Brito](https://github.com/diegoeab)
 
 ---
 
